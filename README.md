@@ -1,4 +1,4 @@
-# Computer Modelling ForFashion E-Commerce
+# Computer Modelling For Fashion E-Commerce
 *Keywords: 3D Model, Warping, Segmentation, Classification, Client - Server*
 
 # Abstract:
